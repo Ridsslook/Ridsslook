@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radhika Kumari</h1>
-<h3 align="center">A passionate frontend developer from India intrested in learning AI features and technologies. So let's get looking into the ridss.</h3>
+<h3 align="center">A passionate Tech learner  from India intrested in learning AI features and technologies. So let's get looking into the ridss.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridsslook&label=Profile%20views&color=0e75b6&style=flat" alt="ridsslook" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Python](Java)
 
-- 🌱 I’m currently learning **Framework in Python & JDK**
+- 🌱 I’m currently learning DSA in JDK
 
 - 📫 How to reach me **radhikakumarinda@gmail.com**
 
